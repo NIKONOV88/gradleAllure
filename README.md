@@ -1,0 +1,2 @@
+# gradleAllure
+gradleAllure
